@@ -2,7 +2,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=3000&color=FFD900&center=true&vCenter=true&width=1000&height=100&lines=Hello+there!;my+name+is+NAIM;" alt="Typing SVG" /></a>
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Naim&bg_color=0d1117&color=FFD900&line=FFD900&point=FFD900&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br><br><br><br><br><br>
 
 
 
