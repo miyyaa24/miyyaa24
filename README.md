@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=3000&color=000000FF&center=true&vCenter=true&width=1000&height=100&lines=Hello+there!;my+name+is+NAIM;I+am+just+started+to+learn+programming" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=3000&color=FFCD4A&center=true&vCenter=true&width=1000&height=100&lines=Hello+there!;my+name+is+NAIM;I+am+just+started+to+learn+programming" alt="Typing SVG" /></a>
 
 <!--
 **miyyaa24/miyyaa24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
