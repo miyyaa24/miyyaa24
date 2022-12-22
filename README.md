@@ -4,7 +4,7 @@
 
 <br><br><br><br><br><br>
 
-//[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Naim&bg_color=0d1117&color=FFD900&line=FFD900&point=FFD900&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Naim&bg_color=0d1117&color=FFD900&line=FFD900&point=FFD900&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <br><br><br><br><br><br>
 
