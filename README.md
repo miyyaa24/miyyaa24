@@ -1,12 +1,12 @@
-<br><br><br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&duration=6000&pause=700&color=FFD900&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hello+there!;My+name+is+Naim" alt="Typing SVG" /></a>
+<br><br>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=50&duration=6000&pause=700&color=FFD900&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hello+there!;My+name+is+Naim" alt="Typing SVG" /></a>
+<br>
 
 
 <!-- [![my github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=miyyaa24&&bg_color=00ff0000&color=FFC833&line=FFC833&point=E624292e&area=true&hide_border=true)](https://github.com/miyyaa24/github-readme-activity-graph) -->
 
-<br><br><br>
-
-
+<br><br><br><br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
