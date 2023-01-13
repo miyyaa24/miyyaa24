@@ -1,6 +1,6 @@
 <br><br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=50&duration=6000&pause=700&color=FFD900&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hello+there!;My+name+is+Naim" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=50&duration=6000&pause=100&color=FFD900&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hello+there!;My+name+is+Naim" alt="Typing SVG" /></a>
 <br>
 
 
