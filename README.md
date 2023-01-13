@@ -1,15 +1,13 @@
 <br><br><br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=3000&color=FFD900&center=true&vCenter=true&width=1000&height=100&lines=Hello+there!;my+name+is+NAIM;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&duration=6000&pause=700&color=FFD900&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hello+there!;My+name+is+Naim" alt="Typing SVG" /></a>
 
 
-<br><br><br><br><br><br>
+<!-- [![my github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=miyyaa24&&bg_color=00ff0000&color=FFC833&line=FFC833&point=E624292e&area=true&hide_border=true)](https://github.com/miyyaa24/github-readme-activity-graph) -->
 
-<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Naim&bg_color=0d1117&color=FFD900&line=FFD900&point=FFD900&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
-<br><br>
+<br><br><br>
 
 
-<!-- <div style ="width : 50%; align : center;">
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -33,11 +31,10 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
 
 </p>
-</div> -->
 
 
 
-<br><br>
+<br>
 <!--
 **miyyaa24/miyyaa24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
