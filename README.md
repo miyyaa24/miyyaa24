@@ -6,7 +6,7 @@
 
 <!-- [![my github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=miyyaa24&&bg_color=00ff0000&color=FFC833&line=FFC833&point=E624292e&area=true&hide_border=true)](https://github.com/miyyaa24/github-readme-activity-graph) -->
 
-<br><br><br><br>
+<br><br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
