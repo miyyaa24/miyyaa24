@@ -1,14 +1,9 @@
-<br><br>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=50&duration=6000&pause=100&color=FFD900&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hello+there!;My+name+is+Naim" alt="Typing SVG" /></a>
-<br>
 
 
 <!-- [![my github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=miyyaa24&&bg_color=00ff0000&color=FFC833&line=FFC833&point=E624292e&area=true&hide_border=true)](https://github.com/miyyaa24/github-readme-activity-graph) -->
 
-<br><br>
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
@@ -30,11 +25,9 @@
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
 
-</p>
+</p> -->
 
 
-
-<br>
 <!--
 **miyyaa24/miyyaa24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
