@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=50&duration=3000&pause=800&color=FFD900&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hello+there!;My+name+is+Naim" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=50&duration=1800&pause=900&color=FFD900&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hello+there!;My+name+is+Naim" alt="Typing SVG" /></a>
 
 
 <!-- [![my github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=miyyaa24&&bg_color=00ff0000&color=FFC833&line=FFC833&point=E624292e&area=true&hide_border=true)](https://github.com/miyyaa24/github-readme-activity-graph) -->
